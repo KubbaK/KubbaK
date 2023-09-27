@@ -24,7 +24,7 @@ I am Kuba Kryk, aspiring young programmer, interested in IT trends, currently fo
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 
-!(https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 <!--
 **KubbaK/KubbaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
