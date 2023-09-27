@@ -22,6 +22,7 @@ I am Kuba Kryk, aspiring young programmer, interested in IT trends, currently fo
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Expressjs](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 
 
 <!--
