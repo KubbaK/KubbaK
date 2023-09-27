@@ -22,6 +22,8 @@ I am Kuba Kryk, aspiring young programmer, interested in IT trends, currently fo
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
+
+https://img.shields.io/github/watchers/:user/:repo
 <!--
 **KubbaK/KubbaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
