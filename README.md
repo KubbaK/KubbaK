@@ -21,9 +21,9 @@ I am Kuba Kryk, aspiring young programmer, interested in IT trends, currently fo
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white
 
 
-https://img.shields.io/github/watchers/:user/:repo
 <!--
 **KubbaK/KubbaK** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
