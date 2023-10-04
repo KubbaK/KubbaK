@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Kuba Kryk, aspiring young programmer, interested in IT trends, currently focused on developing front-end skills. I am actively looking for my first job in the industry. I am open to contacts and ready to learn some new staff!
+I am Kuba Kryk, aspiring young programmer, interested in IT trends, currently focused on developing front-end skills. I am actively looking for my first job in the industry. I am open to contacts and ready to learn some new stuff!
 
 
 ## Skills
