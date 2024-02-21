@@ -22,7 +22,7 @@ I am Kuba Kryk, aspiring young programmer, interested in IT trends, currently fo
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=flat&logo=.net&logoColor=white)
 ![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=KubbaK&hide_progress=false)
